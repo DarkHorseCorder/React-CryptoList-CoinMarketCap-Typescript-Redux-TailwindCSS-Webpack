@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Cryptocurrency List from CoinMarketCap using API
+
+![Screenshot_1](https://user-images.githubusercontent.com/120799088/222147207-990f6356-92f3-4c36-bc04-197d458c8ae8.png)
+![Screenshot_2](https://user-images.githubusercontent.com/120799088/222147221-42ead1c3-c3ad-4950-a33b-e94a20bafb80.png)
+
+
+## Show Cryptocurrency Icon using coinmarketcap-cryptocurrency-icons module
+
+## Using Redux, Typescript, TailwindCSS, and Webpack.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
